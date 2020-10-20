@@ -6,7 +6,7 @@ INFO-I423, Section 11530
 
 October 09, 2020
 
-								**Project Plan**
+								Project Plan
 											
 1.Team
 - We are a three members team all having informatics majors.
