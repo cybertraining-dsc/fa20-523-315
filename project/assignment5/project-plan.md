@@ -1,5 +1,5 @@
 Team member: Peiran Zhao, Sunny Xu, Kris Zhang
-Geoffrey Fox	
+Geoffrey Fox
 INFO-I423, Section 11530
 October 09, 2020
 											Project Plan
