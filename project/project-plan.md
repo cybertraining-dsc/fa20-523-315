@@ -28,7 +28,7 @@ October 09, 2020
 - Our current dataset is directly coming from IBM Research and it is a really trustworthy dataset website. We are planning on using this dataset for our gesture recognition project. However, it is possible that we might change our mind as our project goes through. In that case, if the dataset we plan on using right is not working the best with our project, we will find some other related dataset later.  
 
 
-4.What needs to be done to get a great grade
+4. What needs to be done to get a great grade
 - We need to unite and cooperate friendly.
 - We set up a chatting room for us to chat with each other, therefore if there is any problem that one of us wants to discuss with, we get the chat room to communicate with the team.
 - We set up a google drive folder that is shared with the whole team. In this way, we can do the work together and check each other’s works.
