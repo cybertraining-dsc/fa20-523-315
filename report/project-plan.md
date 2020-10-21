@@ -25,7 +25,7 @@ October 09, 2020
 
 3. Dataset
 - We are planning to search and collect some datasets on the website.
-- Our current dataset is directly coming from IBM Research and it is a really trustworthy dataset website. We are planning on using this dataset for our gesture recognition project. However, it is possible that we might change our mind as our project goes through. In that case, if the dataset we plan on using right is not working the best with our project, we will find some other related dataset later.  
+- Our current dataset is directly coming from IBM Research and it is a really trustworthy dataset website. We are planning on using this dataset for our gesture recognition project. However, it is possible that we might change our mind as our project goes through. In that case, if the dataset we plan on using right is not working the best with our project, we will find some other related dataset later. 
 
 
 4. What needs to be done to get a great grade
