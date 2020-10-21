@@ -1,12 +1,12 @@
 ﻿Sunny Xu 
-       
+
 Geoffrey Fox  
       
 INFO-I423, Section 11530
 
 October 20, 2020
 
-				Assignment 6
+								Assignment 6
 
 The topic I chose regarding artificial intelligence in Health and Medicine is artificial intelligence medical devices. In recent years, with the advancement of science and technology, there have been many successful cases of artificial intelligence in the medical and health field. More and more hospitals have also begun testing and using artificial intelligence medical devices. The popularity of artificial intelligence has also greatly facilitated and improved human life. Even though artificial intelligence brings great convenience to people's lives, many people are still struggling with the question of whether such artificial intelligence brings people good or bad.
 
