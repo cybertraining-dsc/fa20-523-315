@@ -3,6 +3,7 @@
 - [ ] progress uncluear
 - [ ] learn markdown
 - [ ] learn what a ulr is and how to do one in markdown
+- [ ] please get write access for the other students, contact gregor or TA via piazza
 
 Peiran Zhao, Sunny Xu, Kris Zhang
 
