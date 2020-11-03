@@ -1,4 +1,4 @@
-# Project on Gesture recognition and machine learning
+# Report on Gesture recognition and machine learning
 
 - [ ] does no follow our template
 - [ ] overwrote our. template
