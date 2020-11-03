@@ -1,9 +1,5 @@
 # Report on Gesture recognition and machine learning
 
-- [ ] does no follow our template
-- [ ] overwrote our. template
-- [ ] can not be reviewed before template is not fixed
-
 Sunny Xu, Peiran Zhao, Kris Zhang, [fa20-523-315](https://github.com/cybertraining-dsc/fa20-523-315/), [Edit](https://github.com/cybertraining-dsc/fa20-523-315/blob/master/project/project.md)
 
 {{% pageinfo %}}
@@ -12,14 +8,11 @@ Sunny Xu, Peiran Zhao, Kris Zhang, [fa20-523-315](https://github.com/cybertraini
 
 Since our technology is more and more advanced as time goes by, traditional human-computer interaction has become increasingly difficult to meet people's demands. In this digital era, people need faster and more efficient methods to obtain information and data. Traditional and single input and output devices are not fast and convenient enough, it also requires users to learn their own methods of use, which is extremely inefficient and completely a waste of time. Therefore, artificial intelligence comes out, and its rise has followed the changeover times, and it satisfied people's needs. At the same time, gesture is one of the most important way for human to deliver information. It is simple, efficient, convenient, and universally acceptable. Therefore, gesture recognition has become an emerging field in intelligent human-computer interaction field, with great potential and future. 
 
-{{< table_of_contents >}}
-1. Introduction
-2. Background 
-3. Gesture recognition
-4. Conclusion
-5. References
+Contents
 
-{{% pageinfo %}}
+{{< table_of_contents >}}
+
+{{% /pageinfo %}}
 
 **Keywords:** gesture recognition, human, technology, future
 
