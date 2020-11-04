@@ -31,6 +31,8 @@ Gesture recognition is mainly divided into two categories, one is based on exter
 
 ## 4. Conclusion
 
+This section will be addressed upon project completion.
+
 ## Plan
 
 - Introduction: Kris
