@@ -33,12 +33,12 @@ Gesture recognition is mainly divided into two categories, one is based on exter
 
 ## Plan
 
--Introduction: Kris
--Background: Sunny
--Gesture: divided into several parts and each works at one part
--Conclusion: Peiran
--catch up to do more on the report
--each of us should do more research and put more time to the project
+- Introduction: Kris
+- Background: Sunny
+- Gesture: divided into several parts and each works at one part
+- Conclusion: Peiran
+- catch up to do more on the report
+- each of us should do more research and put more time to the project
 
 
 ## 5. References
