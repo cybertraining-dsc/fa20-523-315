@@ -1,6 +1,6 @@
 # Big Data on Gesture Recognition and Machine Learning
 
-Sunny Xu, Peiran Zhao, Kris Zhang, [fa20-523-315](https://github.com/cybertraining-dsc/fa20-523-315/), [Edit](https://github.com/cybertraining-dsc/fa20-523-315/blob/master/project/project.md)
+Sunny Xu, Peiran Zhao, Kris Zhang, [fa20-523-315](https://github.com/cybertraining-dsc/fa20-523-315/), [Edit](https://github.com/cybertraining-dsc/fa20-523-315/blob/master/report/report.md)
 
 {{% pageinfo %}}
 
