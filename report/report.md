@@ -57,7 +57,9 @@ This section will be addressed upon project completion.
 
 - Introduction: Kris
 - Background: Sunny
-- Gesture: divided into several parts and each works at one part
+- Hand Gesture: Peiran
+- Body Gesture: Sunny
+- Facial Expression: Kris
 - Conclusion: Peiran
 - catch up to do more on the report
 - each of us should do more research and put more time to the project
