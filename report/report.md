@@ -14,7 +14,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** gesture recognition, human, technology, future
+**Keywords:** gesture recognition, human, technology, big data, artificial intelligence, body language, facial expression
 
 ## 1. Introduction
 
