@@ -45,6 +45,9 @@ In many cases, certain actions will make people feel emotions. For us who commun
 #### 3.2.2 Body Gesture and Big Data
 
 ### 3.3 Face gesture
+#### 3.3.1 Introduction to Face gesture(Facial Expression)
+When we talk about body gesture and how to understand other people, we look directly to their face. Facial expression is often the easiest way to understand what the person is feeling like right now. Knowing and understand how facial expression work not only help people to understand more about human being it also helps the technology and AI to understand what people are thinking. People may lie about what they think, but their facial expression can reveal what they really think. Some example of common facial expression will be: Happiness, Confusion, Sadness, Surprise, Anger, etc. Each facial expression will have deep meaning behind it.  A simple facial expression like smiling can be translated into a sign of approval, or it can be translated into a sign of friendly. If we put all those emotion into big data, it will help us to understand ourselves much better. 
+#### 3.3.2 Facial Expression and Big Data
 
 ## 4. Conclusion
 
