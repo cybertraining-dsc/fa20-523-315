@@ -29,6 +29,12 @@ Nowadays, people are doing more and more research on high-tech, which also makes
 
 Gesture recognition is mainly divided into two categories, one is based on external device recognition, the specific application is data gloves, wearing it on user's hand, to obtain and analysis information through sensors. This method has obvious shortcomings, though it is accurate and has excellent response speed, but it is costly and is not good for large-scale promotion. The other one is the use of computer vision. People do not need to wear gloves. As its name implies, this method collects and analyzes information through a computer. It is convenient, comfortable, and not so limited based on external device identification. In contrast, it has greater potential and is more in line with the trend of the times. Of course, this method needs more effective and accurate algorithms to support, because the gestures made by different people at different times, in different environments and at different angles also represent different meanings. So, if we want more accurate information feedback. Then the advancement of algorithms and technology is inevitable. The development of gesture recognition is also the development of artificial intelligence, a process of the development of various algorithms from data gloves to the development of computer vision-based optical technology plays a role in promoting it.
 
+### 3.1 Hand gesture
+
+### 3.2 Body gesture
+
+### 3.3 Face gesture
+
 ## 4. Conclusion
 
 This section will be addressed upon project completion.
