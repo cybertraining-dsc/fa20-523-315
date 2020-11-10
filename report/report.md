@@ -74,4 +74,6 @@ This section will be addressed upon project completion.
 
 [^2]: F. Zhan, "Hand Gesture Recognition with Convolution Neural Networks," 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI), Los Angeles, CA, USA, 2019, pp. 295-298, doi: 10.1109/IRI.2019.00054.
 
+[^3]: Di Zhang, DZ.(2019) Research on Hand Gesture Recognition Technology Based on Machine Learning, Nanjing University of Posts and Telecommunications.
+
 [^4]: Cherry, K. (2019, September 28). How to Read Body Language and Facial Expressions. Verywell Mind. Retrieved November 8, 2020, from <https://www.verywellmind.com/understand-body-language-and-facial-expressions-4147228>
