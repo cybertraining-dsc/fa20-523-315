@@ -31,6 +31,8 @@ Gesture recognition is mainly divided into two categories, one is based on exter
 
 ### 3.1 Hand gesture
 
+####3.1.1 Gesture recognition and big data 
+
 ### 3.2 Body gesture
 
 ### 3.3 Face gesture
