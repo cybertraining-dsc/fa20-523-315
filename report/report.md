@@ -43,6 +43,7 @@ Body gestures, which can also be called body language, refer to humans expressin
 In many cases, certain actions will make people feel emotions. For us who communicate with all kinds of people every day, there are also many body languages that we are more familiar with. For example, when a person hangs his head, it means that he is unhappy, walking back and forth is a sign of a person's anxiety, and body shaking is caused by nervousness, etc.
 
 #### 3.2.2 Body Gesture and Big Data
+As a piece of big data, body language requires data collected by studying human movements. Scientists found that when a person wants to convey a complete message, body language accounts for half. And because body language belongs to a person's actions subconsciously, it is rarely deceptive. This also explains why scientists want to collect data to let artificial intelligence understand human behavior.
 
 ### 3.3 Face Gesture
 #### 3.3.1 Introduction to Face Gesture(Facial Expression)
