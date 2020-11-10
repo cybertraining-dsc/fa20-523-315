@@ -36,7 +36,13 @@ As we did our research and based on our life experiences, gesture recognition is
 
 #### 3.1.2 Principles of hand gesture recognition
 
-### 3.2 Body gesture
+### 3.2 Body Gesture
+#### 3.2.1 Introduction to Body Gesture
+Body gestures, which can also be called body language, refer to humans expressing their ideas through the coordinated activities of various body parts. In our lives, body language is ubiquitous. It is like a bridge for our human communication. Through body language expression, it is often easier for us to understand what the other person wants to express. At the same time, we can express ourselves better. The profession of an actor is a good example of body language. This is a compulsory course for every actor because actors can only use their performances to let us know what they are expressing. At this time, body language becomes extremely important. Different characters have different body movements in different situations, and actors need to make the right body language at a specific time to let the audience know their inner feelings. Yes, the most important point of body language is to convey mood through movement.
+
+In many cases, certain actions will make people feel emotions. For us who communicate with all kinds of people every day, there are also many body languages that we are more familiar with. For example, when a person hangs his head, it means that he is unhappy, walking back and forth is a sign of a person's anxiety, and body shaking is caused by nervousness, etc.
+
+#### 3.2.2 Body Gesture and Big Data
 
 ### 3.3 Face gesture
 
