@@ -102,3 +102,5 @@ This section will be addressed upon project completion.
 [^6]: Segal, J., Smith, M., Robinson, L., & Boose, G. (2020, October). Nonverbal Communication and Body Language. HelpGuide.org. <https://www.helpguide.org/articles/relationships-communication/nonverbal-communication.htm>
 
 [^7]: Martineau, K. (2020, June 25). Identifying a melody by studying a musician’s body language. MIT News | Massachusetts Institute of Technology. <https://news.mit.edu/2020/music-gesture-artificial-intelligence-identifies-melody-by-musician-body-language-0625>
+
+[^8]: Harley, J. M. (2016). Facial Expression. ScienceDirect. <https://www.sciencedirect.com/topics/computer-science/facial-expression>
