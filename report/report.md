@@ -69,17 +69,6 @@ Nowadays, since technology is so advance, everything around us can be turn into 
 
 This section will be addressed upon project completion.
 
-## Plan
-
-- Introduction: Kris
-- Background: Sunny
-- Hand Gesture: Peiran
-- Body Gesture: Sunny
-- Facial Expression: Kris
-- Conclusion: Peiran
-- catch up to do more on the report
-- each of us should do more research and put more time to the project
-
 
 ## 5. References
 
