@@ -63,7 +63,16 @@ Body language is one of the ways that we can express ourselves without saying an
 
 #### 3.3.2 Sense Organs On The Face
 
+The facial expression expresses our emotion during the communication by micro movement of our sense organs. The most used organs are the eyes and mouth and sometimes, the eyebrows. 
+
 ##### 3.3.2.1 Eye
+
+The eyes are one of the most important communication tools in our ways of communication with each other. When we communicate with each other, the eye contact will be inevitable. The signal in your eye will tell people what you are think. 
+Eye gaze is a sample of paying attention when communicating with others. When you are talking to a person and if his eye is directly on you and both of you keep having eye contact. In this situation, this mean that he is interested in what you say and is paying attention to what you say. On the other hand, if the action of breaking eye contact happens very frequently, it means that he is not interested, distracted, or not paying attention to you and what you are saying. 
+
+Blinking is another eye signal that is very often and will happen in communicating with other people. When talking to other people, blinking is very usual and will happen every time when you are going to communicate with different people. But the frequency of blanking can give away what are you feeling right now. People often blink more rapidly when they are feeling distressed or uncomfortable. Infrequent blinking may indicate that a person is intentionally trying to control his or her eye movements. [^4] For example, when A person is lying, he might try to control his blinking frequency to make other people feel like he is calm and saying the truth. In order to persuade other people that he is calm and telling the truth, he will need to blink less frequently. 
+
+Pupil size is a very important facial expression. Pupil size can be a very subtle nonverbal communication signal. While light levels in the environment control pupil dilation, sometimes emotions can also cause small changes in pupil size. [^4] For example, when you are surprised by something, your pupil size will become noticeably larger than before. When having a communication, dilated eyes can also mean that the person is interesting in the communication. 
 
 ##### 3.3.2.2 Mouth
 
