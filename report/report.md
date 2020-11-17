@@ -59,11 +59,19 @@ As a piece of big data, body language requires data collected by studying human 
 
 #### 3.3.1 Introduction to Face Gesture(Facial Expression)
 
-Body language is one of the ways that we can express ourselves without saying any words. According to expert, body language is used everyday for us to communicate with each other. During our communication, we not only use words but also use body gestures, hand gestures and most importantly, we use facial expression most. The reason why we use facial expression more than any other body gestures is that when we have certain emotion, it is express in our face automatically. Facial expression is often not under our control. That is why people often say that the word that come out of mouth cannot always be true, but their facial expression will reveal what those people are thinking about. Some example of common facial expression will be: Happiness, Sadness, Anger, Surprise, Disgust, Fear, etc. [^4] Each facial expression will have some deep meaning behind it. For example, A simple facial expression like smiling can be translated into a sign of approval, or it can be translated into a sign of friendly. If we put all those emotion into big data, it will help us to understand ourselves much better.
+Body language is one of the ways that we can express ourselves without saying any words. It has been suggested that body language may account for between 60 to 65% of all communication.[4] According to expert, body language is used every day for us to communicate with each other. During our communication, we not only use words but also use body gestures, hand gestures and most importantly, we use facial expression most. During communication with different people, our face communicate different thoughts, idea, and emotion and the reason why we use facial expression more than any other body gestures is that when we have certain emotion, it is express in our face automatically. Facial expression is often not under our control. That is why people often say that the word that come out of mouth cannot always be true, but their facial expression will reveal what those people are thinking about. So, what is facial expression exactly? According to Jason Matthew Harley, Facial expressions are configurations of different micromotor movements in the face that are used to infer a person’s discrete emotional state.[^6] Some example of common facial expression will be: Happiness, Sadness, Anger, Surprise, Disgust, Fear, etc. [^4] Each facial expression will have some deep meaning behind it. For example, A simple facial expression like smiling can be translated into a sign of approval, or it can be translated into a sign of friendly. If we put all those emotion into big data, it will help us to understand ourselves much better.
 
-#### 3.3.2 Facial Expression and Big Data
+#### 3.3.2 Sense Organs On The Face
+
+#### 3.3.2.1 Eye
+
+#### 3.3.2.2 Mouth
+
+#### 3.3.3 Facial Expression and Big Data
 
 Nowadays, since technology is so advance, everything around us can be turn into data and everything can be related to data. Facial expression is often study by different scientist in research because it allows us to understand more about human and communication between different people. The organ on the face that can be used to deliver expressions are the eyes, nose, mouth. Sometime, eyebrow can also deliver facial expression. The section is still not complete yet. It will be completed before 11/15/2020.
+
+#### 3.3.4 The Problem with Detecting Emotion for Technology Nowadays
 
 ## 4. Conclusion
 
