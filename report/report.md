@@ -85,4 +85,6 @@ This section will be addressed upon project completion.
 
 [^3]: Di Zhang, DZ.(2019) Research on Hand Gesture Recognition Technology Based on Machine Learning, Nanjing University of Posts and Telecommunications.
 
-[^4]: Cherry, K. (2019, September 28). How to Read Body Language and Facial Expressions. Verywell Mind. Retrieved November 8, 2020, from <https://www.verywellmind.com/understand-body-language-and-facial-expressions-4147228>
+[^4]: A. Choudhury, A. K. Talukdar and K. K. Sarma, "A novel hand segmentation method for multiple-hand gesture recognition system under complex background," 2014 International Conference on Signal Processing and Integrated Networks (SPIN), Noida, 2014, pp. 136-140, doi: 10.1109/SPIN.2014.6776936.
+
+[^5]: Cherry, K. (2019, September 28). How to Read Body Language and Facial Expressions. Verywell Mind. Retrieved November 8, 2020, from <https://www.verywellmind.com/understand-body-language-and-facial-expressions-4147228>
