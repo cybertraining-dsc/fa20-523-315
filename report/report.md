@@ -79,7 +79,7 @@ This section will be addressed upon project completion.
 
 ## 5. References
 
-[^1]: Srilatha, Poluka, and Tiruveedhula Saranya. “Advancements in Gesture Recognition Technology.” IOSR Journal of VLSI and Signal Processing, vol. 4, no. 4, 2014, pp. 01–07, iosrjournals.org/iosr-jvlsi/papers/vol4-issue4/Version-1/A04410107.pdf, 10.9790/4200-04410107. Accessed 25 Oct. 2020.
+[^1]: Srilatha, Poluka, and Tiruveedhula Saranya. "Advancements in Gesture Recognition Technology." IOSR Journal of VLSI and Signal Processing, vol. 4, no. 4, 2014, pp. 01–07, iosrjournals.org/iosr-jvlsi/papers/vol4-issue4/Version-1/A04410107.pdf, 10.9790/4200-04410107. Accessed 25 Oct. 2020.
 
 [^2]: F. Zhan, "Hand Gesture Recognition with Convolution Neural Networks," 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI), Los Angeles, CA, USA, 2019, pp. 295-298, doi: 10.1109/IRI.2019.00054.
 
