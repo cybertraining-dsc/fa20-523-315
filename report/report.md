@@ -39,6 +39,10 @@ Hand gesture recognition is commonly used in gesture recognition because fingers
 
 Hand gesture recognition is a complicated process involving many steps. And in order to get the most accurate result, it will need a large amount of quality data and a scientific model with high performance. Hand gesture recognition is also at a developing stage simply because there are so many possible factors that can influence the result. Possible factors include skin color, background color, hand gesture angle, and Bending angle, etc. To simplify the process of gesture recognition, AIs will use 3-D cameras to capture images. After that, the data of the image will be collected and processed by programs and built models.  And lastly, AIs will be able to use that model to get an accurate result in order to have a corresponding response or predict future actions. To explain all processes of hand gesture recognition in detail, it includes graphic gathering, retreatment, skin color segmentation, hand gesture segmentation, and finally hand gesture recognition. Hand Gesture Recognition can not achieve the best accuracy without all any of these steps. Within all these steps, skin color segmentation is the most crucial step in order to increase accuracy and this process will be explained in the next session. [^3]
 
+#### 3.1.3 Gesture Segmentation The Importance of Its Algorithm
+
+
+
 ### 3.2 Body Gesture
 
 #### 3.2.1 Introduction to Body Gesture
