@@ -123,3 +123,5 @@ With the development of artificial intelligence, human-computer interaction, big
 [^8]: Martineau, K. (2020, June 25). Identifying a melody by studying a musician’s body language. MIT News | Massachusetts Institute of Technology. <https://news.mit.edu/2020/music-gesture-artificial-intelligence-identifies-melody-by-musician-body-language-0625>
 
 [^9]: Harley, J. M. (2016). Facial Expression. ScienceDirect. <https://www.sciencedirect.com/topics/computer-science/facial-expression>
+
+[^10]: Chen, A. (2019, July 26). Computers can’t tell if you’re happy when you smile. MIT Technology Review. <https://www.technologyreview.com/2019/07/26/238782/emotion-recognition-technology-artifical-intelligence-inaccurate-psychology/>
