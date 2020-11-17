@@ -53,7 +53,7 @@ In many cases, certain actions will make people feel emotions. For us who commun
 
 #### 3.2.2 Body Gesture and Big Data
 
-As a piece of big data, body language requires data collected by studying human movements. Scientists found that when a person wants to convey a complete message, body language accounts for half. And because body language belongs to a person's actions subconsciously, it is rarely deceptive. All of your nonverbal behaviors—the gestures you make, your posture, your tone of voice, how much eye contact you make—send strong messages.[^6] This also explains why scientists want to collect data to let artificial intelligence understand human behavior.
+As a piece of big data, body language requires data collected by studying human movements. Scientists found that when a person wants to convey a complete message, body language accounts for half. And because body language belongs to a person's actions subconsciously, it is rarely deceptive. All of your nonverbal behaviors—the gestures you make, your posture, your tone of voice, how much eye contact you make—send strong messages.[^6] In many cases, these unconscious messages from our bodies allow the people who communicate with us to feel our intentions. Even when we stop talking, these messages will not stop. This also explains why scientists want to collect data to let artificial intelligence understand human behavior.
 
 ### 3.3 Face Gesture
 
