@@ -5,7 +5,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-315/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-315/actions) 
 [![Status](https://github.com/cybertraining-dsc/fa20-523-315/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-315/actions)
-Status: in progress, Type: Project
+Status: in progress, Type: Report
 
 Sunny Xu, Peiran Zhao, Kris Zhang, [fa20-523-315](https://github.com/cybertraining-dsc/fa20-523-315/), [Edit](https://github.com/cybertraining-dsc/fa20-523-315/blob/main/report/report.md)
 
