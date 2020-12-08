@@ -141,3 +141,7 @@ With the development of artificial intelligence, human-computer interaction, big
 [^11]: Harley, J. M. (2016). Facial Expression. ScienceDirect. <https://www.sciencedirect.com/topics/computer-science/facial-expression>
 
 [^12]: Chen, A. (2019, July 26). Computers can’t tell if you’re happy when you smile. MIT Technology Review. <https://www.technologyreview.com/2019/07/26/238782/emotion-recognition-technology-artifical-intelligence-inaccurate-psychology/>
+
+[^13]: Ou, J. (2012). Classification algorithms research on facial expression recognition. Retrieved from <https://www.sciencedirect.com/science/article/pii/S1875389212006438>
+
+[^14]: Brownlee, J. (2020, August 24). How to perform face detection with deep learning. Retrieved from <https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/>
