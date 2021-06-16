@@ -3,7 +3,7 @@ date: 2021-03-15
 title: Big Data on Gesture Recognition and Machine Learning
 linkTitle: Gesture Recognitio
 tags: ["report", "ai", "health"]
-description: Review of Big Data on Gesture Recognition and Machine Learning
+description: "Since our technology is more and more advanced as time goes by, traditional human-computer interaction has become increasingly difficult to meet people’s demands. In this digital era, people need faster and more efficient methods to obtain information and data. Traditional and single input and output devices are not fast and convenient enough, it also requires users to learn their own methods of use, which is extremely inefficient and completely a waste of time. Therefore, artificial intelligence comes out, and its rise has followed the changeover times, and it satisfied people’s needs. At the same time, gesture is one of the most important way for human to deliver information. It is simple, efficient, convenient, and universally acceptable. Therefore, gesture recognition has become an emerging field in intelligent human-computer interaction field, with great potential and future."
 author: Sunny Xu, Peiran Zhao, Kris Zhang
 resources:
 - src: "**.{png,jpg}"
