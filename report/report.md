@@ -10,7 +10,6 @@ resources:
   title: "Image #:counter"
 ---
 
-# 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-315/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-315/actions) 
 [![Status](https://github.com/cybertraining-dsc/fa20-523-315/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-315/actions)
 Status: final, Type: Report
