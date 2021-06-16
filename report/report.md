@@ -1,5 +1,16 @@
-# Big Data on Gesture Recognition and Machine Learning
+---
+date: 2021-03-15
+title: Big Data on Gesture Recognition and Machine Learning
+linkTitle: Gesture Recognitio
+tags: ["report", "ai", "health"]
+description: Review of Big Data on Gesture Recognition and Machine Learning
+author: Sunny Xu, Peiran Zhao, Kris Zhang
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
+# 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-315/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-315/actions) 
 [![Status](https://github.com/cybertraining-dsc/fa20-523-315/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-315/actions)
 Status: final, Type: Report
